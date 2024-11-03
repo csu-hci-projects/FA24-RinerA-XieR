@@ -1,6 +1,6 @@
 # FA24-RinerA-XieR
 
-Mission to Minerva: Alexia Riner and Rachel Xie
+Starbound Scramblers: Alexia Riner and Rachel Xie
 
 You’re a lone astronaut who woke up on an alien planet, stuck in a cave. You must navigate
 through the cave system and find your way back to your ship. Along the way, you will encounter
