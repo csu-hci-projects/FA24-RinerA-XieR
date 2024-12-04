@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/MyMaps/HW2PuzzleLevel.umap"
+			]
+		}
+	]
+}
