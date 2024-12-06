@@ -5,17 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/MyMaps/HW2PuzzleLevel.umap",
+				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/ding-126626.uasset",
+				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/MyBlueprints/VRTarget.uasset",
 				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/MyMaps/HW2PuzzleLevel.umap",
 				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/MyMaps/HW2LevelOne.umap",
 				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/MyMaps/HW2WinLevel.umap",
 				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/UI/VRWinMenu.uasset",
-				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/StarterContent/Props/Materials/M_Chair.uasset",
-				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/MyBlueprints/AmmoPistol.uasset",
-				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/MyMaps/HW2PuzzleLevel.umap",
-				"C:/Users/CS310HStudent/Downloads/RachelXi Content/CS310/FA24-RinerA-XieR/HW2_310_VR/Content/ding-126626.uasset"
+				"/Users/alexiariner/Documents/GitHub/FA24-RinerA-XieR/HW2_310_VR/Content/UI/VRWinMenu.uasset"
 			]
 		}
 	]
